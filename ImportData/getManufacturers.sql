@@ -1,0 +1,1 @@
+select distinct Name as ManufacturerName from Manufacturer

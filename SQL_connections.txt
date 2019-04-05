@@ -1,0 +1,3 @@
+SERVER=mssql;DATABASE=localdb;UID=sa;PWD=xxxxxx
+SERVER=xxx.xxx.x.xx,xxxx;DATABASE=externaldb;UID=sa;PWD=xxxxxx
+SERVER=db.sql;DATABASE=localdb;UID=sa;PWD=xxxxxx
